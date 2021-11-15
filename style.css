@@ -2,7 +2,7 @@ body{
         
         font-family: "Lucida Console", "Courier New", monospace;
         color: white;
-        background-image: url("backround/giphy.gif");
+        background-image: url("giphy.gif");
         background-size: cover;
         background-repeat: no-repeat, repeat;
         background-color: black;
