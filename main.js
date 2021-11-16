@@ -33,7 +33,13 @@ var sites = [
         'https://youtu.be/6e6RK8o1fcs',
         'https://youtu.be/-RGhdxsQMHA',
         'https://youtu.be/DmgsKR1O00c',
-        'https://youtu.be/FHviwdECNjU'
+        'https://youtu.be/FHviwdECNjU',
+        'https://youtu.be/Ok7kcGEI1oM',
+        'https://youtu.be/9EiinQ1QNXU',
+        'https://youtu.be/k7VzWitgeU4',
+        'https://youtu.be/wvHa2y-pKD8',
+        'https://youtu.be/6VMRAGxjOoA',
+        'https://youtu.be/quyXS4a0JGQ'
     ];
 
     function randomSite() {
