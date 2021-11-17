@@ -1,15 +1,23 @@
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+
+
 body{
         
         font-family: "Lucida Console", "Courier New", monospace;
         color: white;
         background-image: url("giphy.gif");
         background-size: cover;
-        background-repeat: no-repeat, repeat;
+        background-size: 45px;
         background-color: black;
         height: 100px;
     padding:0;
-    margin:0;
+    font-size: bolder
 }
+
 .rickroll{
         font-weight: bolder;
         color: greenyellow;
@@ -17,4 +25,14 @@ body{
 .thisiswherethefunbegins{
         font-weight: 600;
         color: yellowgreen
+}
+.youtube{
+        color: lightblue;
+}
+.twitter{
+        color: white;
+        line-height: 0.7;
+}
+.discord{
+        color: skyblue;
 }
